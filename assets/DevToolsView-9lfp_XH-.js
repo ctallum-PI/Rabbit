@@ -1,0 +1,1 @@
+import{r as s,u as o,c as t,a as r,T as l,b as n,o as c,h as u}from"./index-D3qhzmU8.js";const i={class:"page"},T={__name:"DevToolsView",setup(p){return s("Dev Tools"),u(),o(),(a,e)=>(c(),t("div",i,[r(l,{pageTitle:a.PageTitle},null,8,["pageTitle"]),e[0]||(e[0]=n("div",{class:"content"},null,-1))]))}};export{T as default};
